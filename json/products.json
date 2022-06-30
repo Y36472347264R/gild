@@ -1,0 +1,52 @@
+{
+	"products": [
+		{
+			"id": 25,
+			"url": "#",
+			"title": "Кухня МДФ в ПВХ «Модель 144»",
+			"text": "",
+			"labels": "",
+			"image": "05.jpg",
+			"price": "",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 26,
+			"url": "#",
+			"title": "Кухня МДФ в ПВХ «Модель 44»",
+			"text": "",
+			"labels": "",
+			"image": "06.jpg",
+			"price": "",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 27,
+			"url": "#",
+			"title": "Кухня МДФ в ПВХ «Модель 744»",
+			"text": "",
+			"labels": "",
+			"image": "07.jpg",
+			"price": "",
+			"priceOld": "1",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 28,
+			"url": "#",
+			"title": "Кухня МДФ в ПВХ «Модель 244»",
+			"text": "",
+			"labels": "",
+			"image": "08.jpg",
+			"price": "",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
